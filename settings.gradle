@@ -1,0 +1,2 @@
+rootProject.name='Retrofit MVP Datasource task'
+include ':app'
